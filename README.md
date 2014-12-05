@@ -1,8 +1,8 @@
-sublime-jessy
-=============
+sublime-lyonesse
+================
 
-Provides code highlighting for [Jessy](https://github.com/Ulflander/jessy) files.
+Provides code highlighting for [Lyonesse](https://github.com/Ulflander/lyonesse) files.
 
 # Install
 
-Copy/paste the `Jessy` folder into Sublime Text `Packages` folder.
+Copy/paste the `Lyonesse` folder into Sublime Text `Packages` folder.
